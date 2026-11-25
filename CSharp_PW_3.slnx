@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="GradeDemo/GradeDemo.csproj" Id="ebabc2df-8e70-4243-94a3-1073fd6025d7" />
+  <Project Path="GradeNotifications.Tests/GradeNotifications.Tests.csproj" Id="0365df95-51c1-4f3d-8f01-dca45e132a74" />
+  <Project Path="GradeNotifications/GradeNotifications.csproj" Id="b28d788c-a6bb-40aa-adef-cde34e562f13" />
+</Solution>
